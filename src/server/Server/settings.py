@@ -128,6 +128,7 @@ INSTALLED_APPS = (
     'south',
 
     # Custom applications
+    'envoy_api',
 )
 
 SESSION_SERIALIZER = 'django.contrib.sessions.serializers.JSONSerializer'
