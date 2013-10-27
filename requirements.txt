@@ -3,3 +3,6 @@ passlib
 oursql
 marrow.mailer
 twilio
+
+# Panel requirements
+-r requirements/panel_requirements.txt
